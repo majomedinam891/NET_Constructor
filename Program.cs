@@ -8,17 +8,22 @@
 // var l2 = new Libro("El coronel no tiene quien le escriba");
 
 
-Persona objPersona1 = new Persona();
-Console.WriteLine($"Primer Ej: de objPersona1 {objPersona1.nombre}");
+// Persona objPersona1 = new Persona();
+// Console.WriteLine($"Primer Ej: de objPersona1 {objPersona1.nombre}");
 
-Persona objPersona2 = new Persona("María");
-Console.WriteLine($"Segundo Ej: de objPersona2 {objPersona2.nombre}");
+// Persona objPersona2 = new Persona("María");
+// Console.WriteLine($"Segundo Ej: de objPersona2 {objPersona2.nombre}");
 
-Persona objPersona3 = new Persona("Maria", 18);
-Console.WriteLine($"Tercer Ej: de objPersona3 nombre {objPersona3.nombre} , edad: {objPersona3.edad}");
+// Persona objPersona3 = new Persona("Maria", 18);
+// Console.WriteLine($"Tercer Ej: de objPersona3 nombre {objPersona3.nombre} , edad: {objPersona3.edad}");
 
-Estudiante ObjEstudiante1 = new Estudiante("Juan", "Once");
-Console.WriteLine($"Ejemplo estudiante nombre {ObjEstudiante1.nombre} y grado {ObjEstudiante1.grado}" );
+// Estudiante ObjEstudiante1 = new Estudiante("Juan", "Once");
+// Console.WriteLine($"Ejemplo estudiante nombre {ObjEstudiante1.nombre} y grado {ObjEstudiante1.grado}" );
 
-Perritos objPerritos1 = new Perritos("Bulldog", "Mediano");
-Console.WriteLine($"Ejemplo perrito raza {objPerritos1.raza} y tamaño {objPerritos1.tamaño}");
+// Perritos objPerritos1 = new Perritos("Bulldog", "Mediano");
+// Console.WriteLine($"Ejemplo perrito raza {objPerritos1.raza} y tamaño {objPerritos1.tamaño}");
+
+// Perro animal= new Perro("Poodle", "Cantinflas", 2);
+// Console.WriteLine($"Animal {animal.raza}");
+// Console.WriteLine($"El animal hace esto: {animal.Ladrar()}");
+
